@@ -1,6 +1,6 @@
 streamlit
-opencv-contrib-python-headless
-ultralytics
-mediapipe
+opencv-python-headless
+ultralytics==8.1.0
+mediapipe==0.10.9
 pandas
 numpy
