@@ -1,6 +1,3 @@
 streamlit
 opencv-python-headless
 ultralytics
-mediapipe
-pandas
-numpy
